@@ -1,2 +1,2 @@
-export { default as Background } from "./backgound.png";
-export { default as Background2 } from "./backgound2.png";
+export { default as Background } from "./background.png";
+export { default as Background2 } from "./background2.png";
