@@ -1,4 +1,4 @@
-import { Hero } from "../components/home";
+import { Hero, Subscribe } from "../components/home";
 import { Footer, Nav } from "../components/layout";
 
 const Home = () => {
@@ -6,6 +6,7 @@ const Home = () => {
     <div>
       <Nav />
       <Hero />
+      <Subscribe />
       <Footer />
     </div>
   );

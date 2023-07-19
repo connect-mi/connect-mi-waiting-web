@@ -1,0 +1,10 @@
+export { default as ApplePay } from "./applepay.png";
+export { default as Dhl } from "./dhl.png";
+export { default as FedEx } from "./fedex.png";
+export { default as GooglePay } from "./googlepay.png";
+export { default as MasterCard } from "./mastercard.png";
+export { default as Payoneer } from "./payoneer.png";
+export { default as Paypal } from "./paypal.png";
+export { default as Ups } from "./ups.png";
+export { default as Visa } from "./visa.png";
+export { default as WebMoney } from "./webmoney.png";
