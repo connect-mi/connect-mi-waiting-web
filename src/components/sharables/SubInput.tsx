@@ -2,7 +2,7 @@ const SubInput = () => {
   return (
     <div className="flex flex-row">
       <input
-        className="py-4 p-3 md:px-10 rounded-s-2xl"
+        className="py-4 px-2 md:px-10 rounded-s-2xl"
         type="text"
         placeholder="Type your email address"
       />
