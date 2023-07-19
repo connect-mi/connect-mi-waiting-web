@@ -19,7 +19,7 @@ const Hero = () => {
           </div>
           <Timer />
         </div>
-        <div className="w-full md:w-2/3 lg:w-1/3">
+        <div className="w-full md:w-2/3 lg:w-1/3 p-2">
           Enjoy limitless choices! Connect Mi offers an irresistible collection
           of services and products from global stores. Join our exclusive
           waiting list now!
