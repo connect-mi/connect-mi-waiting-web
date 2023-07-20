@@ -68,15 +68,17 @@ const Timer = () => {
       <div className="text-sm">Time left</div>
       <div className="flex flex-row items-center">
         <div className="flex flex-col space-x-3 items-center">
-          <div className="font-bold text-2xl whitespace-nowrap">{days}</div>
+          <div className="font-bold text-2xl whitespace-nowrap">{days} :</div>
           <div className="">Days</div>
         </div>
         <div className="flex flex-col space-x-3 items-center">
-          <div className="font-bold text-2xl whitespace-nowrap">{hours}</div>
+          <div className="font-bold text-2xl whitespace-nowrap">{hours} :</div>
           <div className="">Hours</div>
         </div>
         <div className="flex flex-col space-x-3 items-center">
-          <div className="font-bold text-2xl whitespace-nowrap">{minutes}</div>
+          <div className="font-bold text-2xl whitespace-nowrap">
+            {minutes} :
+          </div>
           <div className="">Minutes</div>
         </div>
         <div className="flex flex-col space-x-3 items-center">
